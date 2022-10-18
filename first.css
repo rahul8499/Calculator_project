@@ -1,0 +1,55 @@
+.btn{
+
+     padding: 33px;
+    height: 10px;
+    width: 10px;
+   background-color:white;
+   color: rgb(5, 5, 5);
+    border-radius: 35px;
+ font-weight: bold;
+    cursor: pointer;
+  align-items: center;
+    font-size: 14px;
+   
+ 
+    
+
+    
+    
+}
+
+#cl{
+    color: red;
+    
+
+}
+h1{
+    color: white;
+
+}
+input{
+    width:253px;
+    padding: 18px;  
+    margin: 3px; 
+    border: 3px solid lightskyblue;
+    border-radius: 5px;
+
+   
+}
+.container{
+    display: inline-block;
+    border: 2px solid rgb(8, 8, 8);
+    
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 497px;
+    margin: auto;
+  margin-top: 240px;
+    background-color: rgb(3, 3, 3);
+    border-radius:13px;
+text-align: center;
+    
+   
+}
+
